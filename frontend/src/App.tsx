@@ -1,8 +1,11 @@
+import NotificationButtom from "./components/NotificationButtom"
 
 function App() {
   return (
-    <h1> Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h1>
+    <>
+      <NotificationButtom />
+    </>
   )
 }
 
-export default App
+export default NotificationButtom
