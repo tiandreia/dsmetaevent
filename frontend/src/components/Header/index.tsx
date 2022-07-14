@@ -1,7 +1,6 @@
 import logo from '../../assets/img/logo.svg'
 import './styles.css'
 
-
 function Header() {
   return (
     <header>
@@ -10,7 +9,7 @@ function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="instagram.com/tiandreia">tiandreia</a>
+          <a href="instagram.com/tiandreia"> tiandreia</a>
         </p>
       </div>
     </header>
